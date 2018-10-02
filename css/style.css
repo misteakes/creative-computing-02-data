@@ -22,7 +22,7 @@ body {
 }
 
 .center {
-  position: absolute;
+  /* position: absolute; */
   bottom: 100%;
   left: 50%;
   transform: translate(-50%,-50%);
@@ -50,7 +50,7 @@ body {
 }
 
 .box-2 {
-  background-color: #eaeb12;
+  background-color: yellow;
   height: 5.15%;
 }
 
