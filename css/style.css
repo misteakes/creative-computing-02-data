@@ -38,6 +38,7 @@ body {
   display: inline-block;
   vertical-align: bottom;
   position: relative;
+  bottom: 10px;
 }
 
 .box-content {
