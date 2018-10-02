@@ -29,14 +29,14 @@ body {
   padding-bottom: 0;
 }
 
-/* .center {
+.center {
   position: absolute;
   bottom: 100%;
   left: 50%;
   transform: translate(-100%,-100%);
   height: auto;
   width: auto;
-} */
+} 
 
 .box {
   width: 14.28%;
