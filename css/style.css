@@ -44,11 +44,11 @@ body {
   position: bottom;
 }
 
-/* .box-content {
-  font-family: Georgia;
+.box-content {
+  font-family: 'Kalam', cursive;
   font-size: 10px;
   color: black;
-} */
+}
 
 .box-1 {
   background-color: #bb67e8;
