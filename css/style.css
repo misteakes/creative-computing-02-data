@@ -24,10 +24,10 @@ body {
 .center {
   /* position: absolute; */
   bottom: 100%;
-  left: 50%;
+  /* left: 50%; 
   transform: translate(-50%,-50%);
   height: auto;
-  width: auto;
+  width: auto; */
 }
 
 .box {
@@ -37,7 +37,7 @@ body {
   color: white;
   display: inline-block;
   vertical-align: bottom;
-  position: relative;
+  /* position: relative; */
 }
 
 .box-content {
