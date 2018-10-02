@@ -38,7 +38,7 @@ body {
   display: inline-block;
   vertical-align: bottom;
   position: absolute;
-  bottom: 10px;
+  /* bottom: 10px; */
 }
 
 .box-content {
