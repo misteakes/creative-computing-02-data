@@ -16,63 +16,38 @@ body {
 }
 
 .content {
-  font-size: 10pt;
+  font-size: 0;
   height: 100%;
   width: 100%;
 }
 
 .center {
-  position: relative;
-  bottom: 100%;
-  left: 50%; 
+  position: absolute;
+  top: 50%;
+  left: 50%;
   transform: translate(-50%,-50%);
   height: auto;
   width: auto;
 }
 
 .box {
-  width: 16.6%;
-  height: 100%;
+  width: 50%;
+  height: 75%;
   background-color: gray;
   color: white;
   display: inline-block;
-  vertical-align: bottom;
+  vertical-align: top;
   position: relative;
-  /* bottom: 10px; */
 }
 
 .box-content {
-  font-size: 14px;
-  color: black;
+  font-size: 30px;
 }
 
 .box-1 {
-  background-color: #bb67e8;
-  height: 4.8%;
+  background-color: #333;
 }
 
 .box-2 {
-  background-color: yellow;
-  height: 5.15%;
-}
-
-.box-3 {
-  background: rgb(228,173,24);
-  background: linear-gradient(34deg, rgba(228,173,24,1) 22%, rgba(212,45,198,1) 53%, rgba(138,19,226,1) 81%);
-  height: 7.81%;
-}
-
-.box-4 {
-  background-color: #31c66a;
-  height: 8.52%;
-}
-
-.box-5 {
-  background-color: #eb5ab1;
-  height: 15.16%;
-}
-
-.box-6 {
-  background-color: #f60930;
-  height: 58.56%;
+  background-color: #777;
 }
