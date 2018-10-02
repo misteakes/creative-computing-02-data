@@ -24,14 +24,14 @@ body {
 .center {
   position: absolute;
   bottom: 100%;
-  left: 50%;
+  /* left: 50%; */
   /* transform: translate(-50%,-50%); */
   height: auto;
   width: auto;
 }
 
 .box {
-  width: 16.66%;
+  width: 14.28%;
   height: 100%;
   background-color: gray;
   color: white;
@@ -74,4 +74,9 @@ body {
 .box-6 {
   background-color: #f60930;
   height: 58.56%;
+}
+
+.box-7 {
+  background-color: white;
+  height:100%;
 }
