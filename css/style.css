@@ -21,6 +21,7 @@ body {
   width: 100%;
   text-align: center;
   margin: 0;
+  padding-bottom: 0;
 }
 
 /* .center {
@@ -79,6 +80,6 @@ body {
 }
 
 .box-7 {
-  background-color: white;
+  background-color: orange;
   height:100%;
 }
