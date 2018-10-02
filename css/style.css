@@ -37,7 +37,7 @@ body {
   color: white;
   display: inline-block;
   vertical-align: bottom;
-  position: relative;
+  position: absolute;
   bottom: 10px;
 }
 
